@@ -1,0 +1,14 @@
+{
+	"auto_upgrade_last_run": 1351714415,
+	"installed_packages":
+	[
+		"Alignment",
+		"LESS",
+		"Package Control",
+		"Prefixr",
+		"SFTP",
+		"SublimeLinter",
+		"TextFormatting",
+		"Theme - Soda"
+	]
+}

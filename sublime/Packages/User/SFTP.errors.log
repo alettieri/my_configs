@@ -1,0 +1,73 @@
+2012-03-14 15:58:19
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/threads.py", line 101, in handler
+  File "./sftp/commands.py", line 241, in run
+  File "./sftp/commands.py", line 367, in do_operation
+  File "./sftp/file_transfer.py", line 286, in listr
+IndexError: string index out of range
+2012-03-19 15:14:17
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/commands.py", line 1279, in run
+OSError: [Errno 2] No such file or directory: '/Applications/MAMP/htdocs/logos/w-engine/lib/helper/autoload.js'
+2012-03-29 13:32:00
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/commands.py", line 1279, in run
+OSError: [Errno 2] No such file or directory: '/Applications/MAMP/htdocs/logos/w-engine/lib/helper/gzip.js'
+2012-04-07 11:03:08
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/threads.py", line 101, in handler
+  File "./sftp/commands.py", line 250, in run
+  File "./sftp/commands.py", line 378, in do_operation
+  File "./sftp/sftp_transport.py", line 472, in put
+  File "./sftp/file_transfer.py", line 231, in handle_put_dirs
+  File "./sftp/sftp_transport.py", line 220, in cd
+NotFoundError: Folder not found
+2012-05-18 13:27:18
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/commands.py", line 1295, in run
+OSError: [Errno 2] No such file or directory: '/Applications/MAMP/htdocs/logos/w-engine/test_server.js'
+2012-05-21 22:29:28
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/commands.py", line 1295, in run
+OSError: [Errno 2] No such file or directory: '/Applications/MAMP/htdocs/logos/w-engine/app/http-logger.js'
+2012-05-21 22:29:31
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/commands.py", line 1295, in run
+OSError: [Errno 2] No such file or directory: '/Applications/MAMP/htdocs/logos/w-engine/server.js'
+2012-05-24 18:52:32
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/commands.py", line 1295, in run
+OSError: [Errno 2] No such file or directory: '/Applications/MAMP/htdocs/logos/w-engine/app/simple_log.js'
+2012-05-24 18:52:32
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/commands.py", line 1295, in run
+OSError: [Errno 2] No such file or directory: '/Applications/MAMP/htdocs/logos/w-engine/app/simple_log.js'
+2012-07-19 15:09:35
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/commands.py", line 1300, in run
+OSError: [Errno 2] No such file or directory: '/Applications/MAMP/htdocs/logos/w-engine/app/helper/gzip.js'
+2012-07-23 15:40:56
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/commands.py", line 1300, in run
+OSError: [Errno 2] No such file or directory: '/Applications/MAMP/htdocs/logos/w-engine/dptk_modules/actions/action_types/file_actions/wasp-swap-file/index.js'
+2012-08-22 15:17:59
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/commands.py", line 1376, in run
+OSError: [Errno 2] No such file or directory: '/Applications/MAMP/htdocs/logos/w-engine/transaction-manager.js'
+2012-08-22 15:17:59
+Traceback (most recent call last):
+  File "./sftp/threads.py", line 16, in run_with_except_hook
+  File "./sftp/commands.py", line 1376, in run
+OSError: [Errno 2] No such file or directory: '/Applications/MAMP/htdocs/logos/w-engine/catcher_manager.js'
